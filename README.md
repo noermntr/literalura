@@ -1,10 +1,15 @@
-**📚 Literalura**
+# 📚 Literalura
+
+
 Literalura es una aplicación de consola desarrollada en Java que funciona como un catálogo de libros. Permite a los usuarios buscar, registrar y consultar información sobre libros y autores, utilizando la base de datos GUTENDEX.com para la persistencia de los datos.
 
 Este proyecto está enfocado en el consumo de una API externa y en la persistencia de datos mediante tecnologías del ecosistema Spring. 
 
 
-**🚀 Tecnologías Utilizadas**
+
+# 🚀 Tecnologías Utilizadas
+
+
 - Java
 
 - Spring Boot
@@ -18,7 +23,10 @@ Este proyecto está enfocado en el consumo de una API externa y en la persistenc
 - Maven (gestión de dependencias)
 
 
-**🛠️ Requisitos Previos**
+
+# 🛠️ Requisitos Previos
+
+
 Antes de ejecutar el proyecto, asegurate de contar con:
 
 - Java 17 o superior
@@ -30,7 +38,10 @@ Antes de ejecutar el proyecto, asegurate de contar con:
 - Conexión a Internet (para el consumo de la API)
 
 
-**🎯 Objetivo del Proyecto**
+
+# 🎯 Objetivo del Proyecto
+
+
 El objetivo principal de Literalura es:
 
 - Consumir datos desde una API externa de libros.
@@ -42,29 +53,35 @@ El objetivo principal de Literalura es:
 - Permitir consultas dinámicas desde una aplicación de consola.
 
 
-**📌 Funcionalidades**
+
+# 📌 Funcionalidades
+
+
 La aplicación cuenta con las siguientes funcionalidades disponibles desde el menú principal:
 
-🔎 Buscar libro por su título
+🔎 **Buscar libro por su título**
 Permite buscar un libro en la API externa y registrarlo en la base de datos si no existe.
 
-📖 Listar libros registrados
+📖 **Listar libros registrados**
 Muestra todos los libros almacenados en la base de datos.
 
-✍️ Listar autores registrados
+✍️ **Listar autores registrados**
 Devuelve la lista completa de autores guardados.
 
-📅 Listar autores vivos hasta un año determinado
+📅 **Listar autores vivos hasta un año determinado**
 Permite ingresar un año y consultar qué autores estaban vivos hasta esa fecha.
 
-🌍 Listar libros por idioma
+🌍 **Listar libros por idioma**
 Filtra los libros almacenados según el idioma seleccionado.
 
-🚪 Salir de la aplicación
+🚪 **Salir de la aplicación**
 Finaliza la ejecución del programa.
 
 
-**⚙️ Configuración**
+
+# ⚙️ Configuración
+
+
 1 - Clona este repositorio o descarga este repositorio en tu computadora.
 
 2 - Abre el proyecto en tu IDE preferido (IntelliJ, Eclipse, VS Code, etc.).
@@ -74,7 +91,10 @@ Finaliza la ejecución del programa.
 <img width="442" height="109" alt="image" src="https://github.com/user-attachments/assets/f757f547-2cad-48bd-8d8f-d98a2c5e7714" />
 
 
-**▶️ Uso de la Aplicación**
+
+# ▶️ Uso de la Aplicación
+
+
 1 - Ejecuta la aplicación.
 
 2 - Elige entre las opciones 1 a 5.
@@ -84,8 +104,15 @@ Finaliza la ejecución del programa.
 5 - Se repetirá el menú principal cuántas veces necesite el usuario y saldrá de la aplicación eligiendo la opción 0.
 
 
-**👩‍💻 Autor**
+
+# 👩‍💻 Autor
+
+
 Proyecto realizado por Noelia Rementeria el cual forma parte del Challenge ONE - Literalura propuesto por Alura Latam en conjunto con Oracle dentro de la formación como principiante en Programación.
 
-**📜 Licencia**
+
+
+# 📜 Licencia
+
+
 Este proyecto se distribuye con fines educativos. Puedes usarlo, modificarlo y distribuirlo libremente.
