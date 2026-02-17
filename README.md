@@ -60,21 +60,27 @@ El objetivo principal de Literalura es:
 La aplicación cuenta con las siguientes funcionalidades disponibles desde el menú principal:
 
 🔎 **Buscar libro por su título**
+
 Permite buscar un libro en la API externa y registrarlo en la base de datos si no existe.
 
 📖 **Listar libros registrados**
+
 Muestra todos los libros almacenados en la base de datos.
 
 ✍️ **Listar autores registrados**
+
 Devuelve la lista completa de autores guardados.
 
 📅 **Listar autores vivos hasta un año determinado**
+
 Permite ingresar un año y consultar qué autores estaban vivos hasta esa fecha.
 
 🌍 **Listar libros por idioma**
+
 Filtra los libros almacenados según el idioma seleccionado.
 
 🚪 **Salir de la aplicación**
+
 Finaliza la ejecución del programa.
 
 
